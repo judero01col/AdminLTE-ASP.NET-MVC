@@ -24,9 +24,9 @@ this repo, provide full **ASP.NET MVC** version of AdminLTE, consisting all the 
 - Examples
 - Multilevel
 
-![judero01col](WebApplication/Content/01.png)
-![judero01col](WebApplication/Content/02.png)
-![judero01col](WebApplication/Content/03.png)
+![judero01col](AdminLTE-ASP.NET-MVC/Content/01.png)
+![judero01col](AdminLTE-ASP.NET-MVC/Content/02.png)
+![judero01col](AdminLTE-ASP.NET-MVC/Content/03.png)
 
 # Development Tools & Environment
 
